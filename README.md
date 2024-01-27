@@ -1,4 +1,4 @@
-Hello my name is EXTRAEPICSTUFF and i know where you live (in your house) and I am not very good at coding the only codig language i know currently is HTML.
+Hello, my name is TheBrioche and I know where you live (in your house) I am not very good at coding the only coding language I know currently is HTML.
 
 <!---
 EXTRAEPICSTUFF/EXTRAEPICSTUFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
